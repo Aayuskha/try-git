@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine;
+    /* display: flex; */
+    font-style: inherit;
+}
+h1{
+    text-align: center;
+}
